@@ -1,0 +1,2 @@
+﻿  Chapter4_zad3.cpp
+c:\users\shystrik\source\repos\chapter4_zad3\chapter4_zad3.cpp(52): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
