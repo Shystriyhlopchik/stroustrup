@@ -1,0 +1,4 @@
+﻿  Chapter5_zad6.cpp
+c:\users\shystrik\source\repos\chapter_4\chapter5_zad6\chapter5_zad6.cpp(14): warning C4715: ctok: значение возвращается не при всех путях выполнения
+c:\users\shystrik\source\repos\chapter_4\chapter5_zad6\chapter5_zad6.cpp(23): warning C4715: ftok: значение возвращается не при всех путях выполнения
+  Chapter5_zad6.vcxproj -> C:\Users\Shystrik\source\repos\Chapter_4\Debug\Chapter5_zad6.exe
